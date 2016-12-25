@@ -1,0 +1,8 @@
+隱私權政策
+
+本應用程式(尋車小幫手)使用了相機權限，目的是為了使用相機拍攝停車位置，照片僅供使用者紀錄使用。本應用程式並不會利用相機權限做其他用途。
+
+Privacy Policy
+
+This application (Car Finder) uses cameara permission for taking pictures to record parking location.
+The cameara permission is not meant for other usage.
